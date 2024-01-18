@@ -1,7 +1,7 @@
 node_modules
 bower_components
 *.pyc
-dist/
+# dist/
 docs/api/
 docs/validator.html
 tools/vzic/
